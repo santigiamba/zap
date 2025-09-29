@@ -1,0 +1,6 @@
+Instrucciones del juego:
+- Mover con flechas izquierda/derecha o A/D.
+- Recoger objetos verdes/amarillos para REDUCIR la huella de carbono.
+- Evitar autos y fábricas que aumentan la huella.
+- Cada objeto muestra los kg CO2 que ahorras o emites.
+- Objetivo: obtener mayor 'kg CO2 ahorrados' al finalizar.
